@@ -32,7 +32,7 @@ CLONE_MODE = bool(environ.get('CLONE_MODE', True)) # Set True or False
 
 # If Clone Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "mongodb+srv://Pclone:Pclone@pclone.ym6qh.mongodb.net/?retryWrites=true&w=majority")
-CDB_NAME = environ.get("CDB_NAME", "Pclone")
+CDB_NAME = environ.get("CDB_NAME", "Pclone2")
 
 # Database Information
 DB_URI = environ.get("DB_URI", "")
