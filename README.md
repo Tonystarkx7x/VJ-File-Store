@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://graph.org/file/c8ebf2cf94bf6953b0599.jpg" alt="Ellisa Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  Ellisa FILE STORE
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
-### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
+### Deploy Tutorial [Video Link](https://youtu.be/TbpoIwmP0ak?si=LYvFhU7hQu_j92bz)
 
 ## Features
 
